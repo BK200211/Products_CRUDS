@@ -6,7 +6,7 @@ Ce projet vise à ajouter des tests fonctionnels aux applications Web [Products_
 - Visitez [https://mohamedmamdouh1999.github.io/Products_CRUDS/](https://mohamedmamdouh1999.github.io/Products_CRUDS/) pour tester l'application.
 
 ## Crédits
-Ce projet est basé sur le travail de [MohamedMamdouh1999](https://github.com/MohamedMamdouh1999/Products_CRUDS).
+Ce projet est basé sur les travaux de [MohamedMamdouh1999](https://github.com/MohamedMamdouh1999/Products_CRUDS).
 
 ## Membres du Groupe
 - Adrien M
