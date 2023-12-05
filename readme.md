@@ -8,6 +8,7 @@ Ce projet vise à ajouter des tests fonctionnels aux applications Web [Products_
 ## Les cas de tests
 
 Cas usuel - ajout de produits premium
+
 1. Description : L'utilisateur accède à la page d'accueil et ajoute des produits contenant des informations valides.
 Action:
 Ouvrez un navigateur et accédez à https://mohamedmamdouh1999.github.io/Products_CRUDS/.
@@ -20,6 +21,7 @@ Assurez-vous que le produit a été ajouté avec succès (vérifiez si le produi
 
 
 Cas extrême : tentative d'ajout d'un produit avec un nom incorrect
+
 2. Description : L'utilisateur a tenté d'ajouter un produit avec un nom incorrect (les champs obligatoires sont manquants).
 Action:
 Ouvrez un navigateur et accédez à https://mohamedmamdouh1999.github.io/Products_CRUDS/.
@@ -31,6 +33,7 @@ Assurez-vous qu'une alerte s'affiche indiquant que le nom du produit est requis.
 
 
 Cas d'erreur - Ajout d'un produit avec un prix incorrect
+
 3. Description : L'utilisateur a tenté d'ajouter un produit avec un prix incorrect (double-clic sur le champ).
 Action:
 Ouvrez un navigateur et accédez à https://mohamedmamdouh1999.github.io/Products_CRUDS/.
