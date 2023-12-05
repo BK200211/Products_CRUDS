@@ -1,0 +1,494 @@
+{
+  "id": "69fe8d3c-6acd-4c6d-a258-dec463f5cb94",
+  "version": "2.0",
+  "name": "Produits_CRUDS",
+  "url": "https://mohamedmamdouh1999.github.io/Products_CRUDS/",
+  "tests": [{
+    "id": "ad1f1070-5243-4fcd-a8c1-be8286bccb6c",
+    "name": "Ajouter qualite bonne",
+    "commands": [{
+      "id": "ab8fe818-087a-4884-a31a-b551b9211780",
+      "comment": "",
+      "command": "open",
+      "target": "https://mohamedmamdouh1999.github.io/Products_CRUDS/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "5b247478-ebfc-4c03-82e6-bfd16234a001",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "a315d705-636f-467b-a635-cc86e0b1b12d",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "fdsgdsfdsfdsfdsad"
+    }, {
+      "id": "b0a1d54c-29df-47b2-a445-bd49d16abd2a",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "4f08f442-7ebb-447e-8052-f8355cbd90a8",
+      "comment": "",
+      "command": "click",
+      "target": "id=alertName",
+      "targets": [
+        ["id=alertName", "id"],
+        ["css=#alertName", "css:finder"],
+        ["xpath=//div[@id='alertName']", "xpath:attributes"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "149cb944-afb4-426f-bd97-c2491f96b776",
+      "comment": "",
+      "command": "click",
+      "target": "id=alertName",
+      "targets": [
+        ["id=alertName", "id"],
+        ["css=#alertName", "css:finder"],
+        ["xpath=//div[@id='alertName']", "xpath:attributes"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "76de0f07-7124-44ca-b3c0-6349766b7b15",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "id=alertName",
+      "targets": [
+        ["id=alertName", "id"],
+        ["css=#alertName", "css:finder"],
+        ["xpath=//div[@id='alertName']", "xpath:attributes"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "0f15cd9d-46ee-4e29-9c17-da1fc4c13b00",
+      "comment": "",
+      "command": "click",
+      "target": "id=alertName",
+      "targets": [
+        ["id=alertName", "id"],
+        ["css=#alertName", "css:finder"],
+        ["xpath=//div[@id='alertName']", "xpath:attributes"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "1ed1c53f-fa45-4cbb-9a0b-d92e0fad79f8",
+      "comment": "",
+      "command": "click",
+      "target": "id=alertName",
+      "targets": [
+        ["id=alertName", "id"],
+        ["css=#alertName", "css:finder"],
+        ["xpath=//div[@id='alertName']", "xpath:attributes"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "897acff3-39d1-4694-80aa-fb131bca05ec",
+      "comment": "",
+      "command": "click",
+      "target": "id=alertName",
+      "targets": [
+        ["id=alertName", "id"],
+        ["css=#alertName", "css:finder"],
+        ["xpath=//div[@id='alertName']", "xpath:attributes"],
+        ["xpath=//form/div", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7e9e770a-4eaa-4be3-9b9f-f23bb4d04ca8",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "55448a93-6199-48f8-8114-1f09eaaee4b4",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Mi 9T"
+    }, {
+      "id": "2dc7db93-7f4a-4dbf-a7d0-48276602a8ec",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "70c2983d-af56-46c1-9887-57932a45529b",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "1000"
+    }, {
+      "id": "6c6d1119-a0f0-4903-bdea-e2af84c4763e",
+      "comment": "",
+      "command": "doubleClick",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "11e6153b-f549-4884-9cfd-47a303818ada",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f4e0de72-6b84-4cad-8f91-4390810349bf",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputCategory",
+      "targets": [
+        ["id=inputCategory", "id"],
+        ["css=#inputCategory", "css:finder"],
+        ["xpath=//select[@id='inputCategory']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "188858a5-82eb-45d1-93f6-c27336d9b0a6",
+      "comment": "",
+      "command": "click",
+      "target": "id=btnAdd",
+      "targets": [
+        ["id=btnAdd", "id"],
+        ["css=#btnAdd", "css:finder"],
+        ["xpath=//button[@id='btnAdd']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add Product')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "5594202d-7b28-4c28-afd2-833dbe7787ba",
+    "name": "Ajouter qualite mauvaise",
+    "commands": [{
+      "id": "8d273ee2-ae9d-4386-b71a-2cec6bc55374",
+      "comment": "",
+      "command": "open",
+      "target": "https://mohamedmamdouh1999.github.io/Products_CRUDS/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0e49003a-c1ca-47e6-952c-c9357aa456ef",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "974x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "10325f2a-089b-4e5c-930e-d82f5243ce71",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "9f9675f1-b875-453d-843c-e856522b139b",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Mi 9ss"
+    }, {
+      "id": "9c1a42f6-c49d-4c7e-97c3-09c1add96290",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "8a9c7645-6381-4441-8047-13b7703e398b",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "190"
+    }, {
+      "id": "ecb31a3b-39ea-433b-bda8-697a8242d69d",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputCategory",
+      "targets": [
+        ["id=inputCategory", "id"],
+        ["css=#inputCategory", "css:finder"],
+        ["xpath=//select[@id='inputCategory']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "297573b3-a9e9-4e33-af7b-ddf577bf6a2b",
+      "comment": "",
+      "command": "select",
+      "target": "id=inputCategory",
+      "targets": [],
+      "value": "label=MOBILE"
+    }, {
+      "id": "0c9b6d74-070f-4bba-9b5a-7e3639d4ee67",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputCondition",
+      "targets": [
+        ["id=inputCondition", "id"],
+        ["css=#inputCondition", "css:finder"],
+        ["xpath=//select[@id='inputCondition']", "xpath:attributes"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "73220233-745e-47cc-b931-1dd13483b451",
+      "comment": "",
+      "command": "select",
+      "target": "id=inputCondition",
+      "targets": [],
+      "value": "label=Bad"
+    }, {
+      "id": "82deeff9-61ef-486d-b157-504c6fe95983",
+      "comment": "",
+      "command": "click",
+      "target": "id=btnAdd",
+      "targets": [
+        ["id=btnAdd", "id"],
+        ["css=#btnAdd", "css:finder"],
+        ["xpath=//button[@id='btnAdd']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add Product')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "18ed7459-c9f8-4e6e-8eab-16c38e7e2779",
+      "comment": "",
+      "command": "mouseOver",
+      "target": "id=btnAdd",
+      "targets": [
+        ["id=btnAdd", "id"],
+        ["css=#btnAdd", "css:finder"],
+        ["xpath=//button[@id='btnAdd']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add Product')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "20a06c4e-0c3f-428b-b8b9-2735d3deb983",
+      "comment": "",
+      "command": "mouseOut",
+      "target": "id=btnAdd",
+      "targets": [
+        ["id=btnAdd", "id"],
+        ["css=#btnAdd", "css:finder"],
+        ["xpath=//button[@id='btnAdd']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add Product')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }, {
+    "id": "3f80fce6-d6bc-4af6-a7ef-457daf5e1c55",
+    "name": "Ajouter qualite excellente",
+    "commands": [{
+      "id": "b0568549-05f2-4b15-ae49-7fe6f96337ca",
+      "comment": "",
+      "command": "open",
+      "target": "https://mohamedmamdouh1999.github.io/Products_CRUDS/",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "10b280cd-169a-4904-8c8b-40cd12d8ef18",
+      "comment": "",
+      "command": "setWindowSize",
+      "target": "974x1080",
+      "targets": [],
+      "value": ""
+    }, {
+      "id": "0583b00a-af95-4e79-9455-555dc0b03fc0",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "f346deb5-f4c2-41f8-bf1f-a1a1b0958edb",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputName",
+      "targets": [
+        ["id=inputName", "id"],
+        ["css=#inputName", "css:finder"],
+        ["xpath=//input[@id='inputName']", "xpath:attributes"],
+        ["xpath=//input", "xpath:position"]
+      ],
+      "value": "Q9 Test"
+    }, {
+      "id": "0086495f-6596-4d12-bc70-3d315a597960",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputCategory",
+      "targets": [
+        ["id=inputCategory", "id"],
+        ["css=#inputCategory", "css:finder"],
+        ["xpath=//select[@id='inputCategory']", "xpath:attributes"],
+        ["xpath=//select", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "6fe6ca1d-24ee-4b3c-ae55-7378983caf1f",
+      "comment": "",
+      "command": "select",
+      "target": "id=inputCategory",
+      "targets": [],
+      "value": "label=MOBILE"
+    }, {
+      "id": "affa625c-053b-4121-8489-aa29ae0d84c2",
+      "comment": "",
+      "command": "click",
+      "target": "id=inputCondition",
+      "targets": [
+        ["id=inputCondition", "id"],
+        ["css=#inputCondition", "css:finder"],
+        ["xpath=//select[@id='inputCondition']", "xpath:attributes"],
+        ["xpath=//select[2]", "xpath:position"]
+      ],
+      "value": ""
+    }, {
+      "id": "7b68278f-7c71-467f-9ba5-79d8b899a1cf",
+      "comment": "",
+      "command": "select",
+      "target": "id=inputCondition",
+      "targets": [],
+      "value": "label=Excellent"
+    }, {
+      "id": "75f2d022-535a-4cfa-bd9c-a1be85b6d3b8",
+      "comment": "",
+      "command": "click",
+      "target": "id=btnAdd",
+      "targets": [
+        ["id=btnAdd", "id"],
+        ["css=#btnAdd", "css:finder"],
+        ["xpath=//button[@id='btnAdd']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add Product')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }, {
+      "id": "4fd95613-5897-40f3-93ec-50e47c88dd9a",
+      "comment": "",
+      "command": "type",
+      "target": "id=inputPrice",
+      "targets": [
+        ["id=inputPrice", "id"],
+        ["css=#inputPrice", "css:finder"],
+        ["xpath=//input[@id='inputPrice']", "xpath:attributes"],
+        ["xpath=//input[2]", "xpath:position"]
+      ],
+      "value": "197515"
+    }, {
+      "id": "ab1730ff-edf3-4858-bf80-d25e04a0dc48",
+      "comment": "",
+      "command": "click",
+      "target": "id=btnAdd",
+      "targets": [
+        ["id=btnAdd", "id"],
+        ["css=#btnAdd", "css:finder"],
+        ["xpath=//button[@id='btnAdd']", "xpath:attributes"],
+        ["xpath=//button", "xpath:position"],
+        ["xpath=//button[contains(.,'Add Product')]", "xpath:innerText"]
+      ],
+      "value": ""
+    }]
+  }],
+  "suites": [{
+    "id": "70be11f1-e64c-4303-a427-4ef4d49815f0",
+    "name": "Default Suite",
+    "persistSession": false,
+    "parallel": false,
+    "timeout": 300,
+    "tests": ["ad1f1070-5243-4fcd-a8c1-be8286bccb6c"]
+  }],
+  "urls": ["https://github.com/", "https://mohamedmamdouh1999.github.io/Products_CRUDS/"],
+  "plugins": []
+}
