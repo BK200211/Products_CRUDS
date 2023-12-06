@@ -53,3 +53,4 @@ Ce projet est basé sur les travaux de [MohamedMamdouh1999](https://github.com/M
 ## Membres du Groupe
 - Adrien M
 - Boris K
+- Victorien SM
